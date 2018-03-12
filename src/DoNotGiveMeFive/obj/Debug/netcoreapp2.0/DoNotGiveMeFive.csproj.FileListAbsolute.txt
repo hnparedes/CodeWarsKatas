@@ -1,0 +1,14 @@
+D:\usr\git\CodeWarsKatas\src\DoNotGiveMeFive\bin\Debug\netcoreapp2.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+D:\usr\git\CodeWarsKatas\src\DoNotGiveMeFive\bin\Debug\netcoreapp2.0\xunit.runner.reporters.netcoreapp10.dll
+D:\usr\git\CodeWarsKatas\src\DoNotGiveMeFive\bin\Debug\netcoreapp2.0\xunit.runner.utility.netcoreapp10.dll
+D:\usr\git\CodeWarsKatas\src\DoNotGiveMeFive\bin\Debug\netcoreapp2.0\DoNotGiveMeFive.deps.json
+D:\usr\git\CodeWarsKatas\src\DoNotGiveMeFive\bin\Debug\netcoreapp2.0\DoNotGiveMeFive.runtimeconfig.json
+D:\usr\git\CodeWarsKatas\src\DoNotGiveMeFive\bin\Debug\netcoreapp2.0\DoNotGiveMeFive.runtimeconfig.dev.json
+D:\usr\git\CodeWarsKatas\src\DoNotGiveMeFive\bin\Debug\netcoreapp2.0\DoNotGiveMeFive.dll
+D:\usr\git\CodeWarsKatas\src\DoNotGiveMeFive\bin\Debug\netcoreapp2.0\DoNotGiveMeFive.pdb
+D:\usr\git\CodeWarsKatas\src\DoNotGiveMeFive\obj\Debug\netcoreapp2.0\DoNotGiveMeFive.csproj.CoreCompileInputs.cache
+D:\usr\git\CodeWarsKatas\src\DoNotGiveMeFive\obj\Debug\netcoreapp2.0\DoNotGiveMeFive.AssemblyInfoInputs.cache
+D:\usr\git\CodeWarsKatas\src\DoNotGiveMeFive\obj\Debug\netcoreapp2.0\DoNotGiveMeFive.AssemblyInfo.cs
+D:\usr\git\CodeWarsKatas\src\DoNotGiveMeFive\obj\Debug\netcoreapp2.0\DoNotGiveMeFive.dll
+D:\usr\git\CodeWarsKatas\src\DoNotGiveMeFive\obj\Debug\netcoreapp2.0\DoNotGiveMeFive.pdb
+D:\usr\git\CodeWarsKatas\src\DoNotGiveMeFive\obj\Debug\netcoreapp2.0\DoNotGiveMeFive.csprojResolveAssemblyReference.cache

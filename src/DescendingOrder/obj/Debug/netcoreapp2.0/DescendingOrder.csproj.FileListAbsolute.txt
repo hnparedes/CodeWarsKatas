@@ -1,0 +1,14 @@
+D:\usr\git\CodeWarsKatas\src\DescendingOrder\bin\Debug\netcoreapp2.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+D:\usr\git\CodeWarsKatas\src\DescendingOrder\bin\Debug\netcoreapp2.0\xunit.runner.reporters.netcoreapp10.dll
+D:\usr\git\CodeWarsKatas\src\DescendingOrder\bin\Debug\netcoreapp2.0\xunit.runner.utility.netcoreapp10.dll
+D:\usr\git\CodeWarsKatas\src\DescendingOrder\bin\Debug\netcoreapp2.0\DescendingOrder.deps.json
+D:\usr\git\CodeWarsKatas\src\DescendingOrder\bin\Debug\netcoreapp2.0\DescendingOrder.runtimeconfig.json
+D:\usr\git\CodeWarsKatas\src\DescendingOrder\bin\Debug\netcoreapp2.0\DescendingOrder.runtimeconfig.dev.json
+D:\usr\git\CodeWarsKatas\src\DescendingOrder\bin\Debug\netcoreapp2.0\DescendingOrder.dll
+D:\usr\git\CodeWarsKatas\src\DescendingOrder\bin\Debug\netcoreapp2.0\DescendingOrder.pdb
+D:\usr\git\CodeWarsKatas\src\DescendingOrder\obj\Debug\netcoreapp2.0\DescendingOrder.csproj.CoreCompileInputs.cache
+D:\usr\git\CodeWarsKatas\src\DescendingOrder\obj\Debug\netcoreapp2.0\DescendingOrder.AssemblyInfoInputs.cache
+D:\usr\git\CodeWarsKatas\src\DescendingOrder\obj\Debug\netcoreapp2.0\DescendingOrder.AssemblyInfo.cs
+D:\usr\git\CodeWarsKatas\src\DescendingOrder\obj\Debug\netcoreapp2.0\DescendingOrder.dll
+D:\usr\git\CodeWarsKatas\src\DescendingOrder\obj\Debug\netcoreapp2.0\DescendingOrder.pdb
+D:\usr\git\CodeWarsKatas\src\DescendingOrder\obj\Debug\netcoreapp2.0\DescendingOrder.csprojResolveAssemblyReference.cache

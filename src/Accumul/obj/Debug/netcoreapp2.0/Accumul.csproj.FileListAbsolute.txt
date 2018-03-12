@@ -1,0 +1,14 @@
+D:\usr\git\CodeWarsKatas\src\Accumul\bin\Debug\netcoreapp2.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+D:\usr\git\CodeWarsKatas\src\Accumul\bin\Debug\netcoreapp2.0\xunit.runner.reporters.netcoreapp10.dll
+D:\usr\git\CodeWarsKatas\src\Accumul\bin\Debug\netcoreapp2.0\xunit.runner.utility.netcoreapp10.dll
+D:\usr\git\CodeWarsKatas\src\Accumul\bin\Debug\netcoreapp2.0\Accumul.deps.json
+D:\usr\git\CodeWarsKatas\src\Accumul\bin\Debug\netcoreapp2.0\Accumul.runtimeconfig.json
+D:\usr\git\CodeWarsKatas\src\Accumul\bin\Debug\netcoreapp2.0\Accumul.runtimeconfig.dev.json
+D:\usr\git\CodeWarsKatas\src\Accumul\bin\Debug\netcoreapp2.0\Accumul.dll
+D:\usr\git\CodeWarsKatas\src\Accumul\bin\Debug\netcoreapp2.0\Accumul.pdb
+D:\usr\git\CodeWarsKatas\src\Accumul\obj\Debug\netcoreapp2.0\Accumul.csprojResolveAssemblyReference.cache
+D:\usr\git\CodeWarsKatas\src\Accumul\obj\Debug\netcoreapp2.0\Accumul.csproj.CoreCompileInputs.cache
+D:\usr\git\CodeWarsKatas\src\Accumul\obj\Debug\netcoreapp2.0\Accumul.AssemblyInfoInputs.cache
+D:\usr\git\CodeWarsKatas\src\Accumul\obj\Debug\netcoreapp2.0\Accumul.AssemblyInfo.cs
+D:\usr\git\CodeWarsKatas\src\Accumul\obj\Debug\netcoreapp2.0\Accumul.dll
+D:\usr\git\CodeWarsKatas\src\Accumul\obj\Debug\netcoreapp2.0\Accumul.pdb

@@ -1,0 +1,14 @@
+D:\usr\git\CodeWarsKatas\src\SimplePigLatin\bin\Debug\netcoreapp2.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+D:\usr\git\CodeWarsKatas\src\SimplePigLatin\bin\Debug\netcoreapp2.0\xunit.runner.reporters.netcoreapp10.dll
+D:\usr\git\CodeWarsKatas\src\SimplePigLatin\bin\Debug\netcoreapp2.0\xunit.runner.utility.netcoreapp10.dll
+D:\usr\git\CodeWarsKatas\src\SimplePigLatin\bin\Debug\netcoreapp2.0\SimplePigLatin.deps.json
+D:\usr\git\CodeWarsKatas\src\SimplePigLatin\bin\Debug\netcoreapp2.0\SimplePigLatin.runtimeconfig.json
+D:\usr\git\CodeWarsKatas\src\SimplePigLatin\bin\Debug\netcoreapp2.0\SimplePigLatin.runtimeconfig.dev.json
+D:\usr\git\CodeWarsKatas\src\SimplePigLatin\bin\Debug\netcoreapp2.0\SimplePigLatin.dll
+D:\usr\git\CodeWarsKatas\src\SimplePigLatin\bin\Debug\netcoreapp2.0\SimplePigLatin.pdb
+D:\usr\git\CodeWarsKatas\src\SimplePigLatin\obj\Debug\netcoreapp2.0\SimplePigLatin.csprojResolveAssemblyReference.cache
+D:\usr\git\CodeWarsKatas\src\SimplePigLatin\obj\Debug\netcoreapp2.0\SimplePigLatin.csproj.CoreCompileInputs.cache
+D:\usr\git\CodeWarsKatas\src\SimplePigLatin\obj\Debug\netcoreapp2.0\SimplePigLatin.AssemblyInfoInputs.cache
+D:\usr\git\CodeWarsKatas\src\SimplePigLatin\obj\Debug\netcoreapp2.0\SimplePigLatin.AssemblyInfo.cs
+D:\usr\git\CodeWarsKatas\src\SimplePigLatin\obj\Debug\netcoreapp2.0\SimplePigLatin.dll
+D:\usr\git\CodeWarsKatas\src\SimplePigLatin\obj\Debug\netcoreapp2.0\SimplePigLatin.pdb

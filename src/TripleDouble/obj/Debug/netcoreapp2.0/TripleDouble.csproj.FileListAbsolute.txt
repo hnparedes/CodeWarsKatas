@@ -1,0 +1,14 @@
+D:\usr\git\CodeWarsKatas\src\TripleDouble\bin\Debug\netcoreapp2.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+D:\usr\git\CodeWarsKatas\src\TripleDouble\bin\Debug\netcoreapp2.0\xunit.runner.reporters.netcoreapp10.dll
+D:\usr\git\CodeWarsKatas\src\TripleDouble\bin\Debug\netcoreapp2.0\xunit.runner.utility.netcoreapp10.dll
+D:\usr\git\CodeWarsKatas\src\TripleDouble\bin\Debug\netcoreapp2.0\TripleDouble.deps.json
+D:\usr\git\CodeWarsKatas\src\TripleDouble\bin\Debug\netcoreapp2.0\TripleDouble.runtimeconfig.json
+D:\usr\git\CodeWarsKatas\src\TripleDouble\bin\Debug\netcoreapp2.0\TripleDouble.runtimeconfig.dev.json
+D:\usr\git\CodeWarsKatas\src\TripleDouble\bin\Debug\netcoreapp2.0\TripleDouble.dll
+D:\usr\git\CodeWarsKatas\src\TripleDouble\bin\Debug\netcoreapp2.0\TripleDouble.pdb
+D:\usr\git\CodeWarsKatas\src\TripleDouble\obj\Debug\netcoreapp2.0\TripleDouble.csproj.CoreCompileInputs.cache
+D:\usr\git\CodeWarsKatas\src\TripleDouble\obj\Debug\netcoreapp2.0\TripleDouble.AssemblyInfoInputs.cache
+D:\usr\git\CodeWarsKatas\src\TripleDouble\obj\Debug\netcoreapp2.0\TripleDouble.AssemblyInfo.cs
+D:\usr\git\CodeWarsKatas\src\TripleDouble\obj\Debug\netcoreapp2.0\TripleDouble.dll
+D:\usr\git\CodeWarsKatas\src\TripleDouble\obj\Debug\netcoreapp2.0\TripleDouble.pdb
+D:\usr\git\CodeWarsKatas\src\TripleDouble\obj\Debug\netcoreapp2.0\TripleDouble.csprojResolveAssemblyReference.cache

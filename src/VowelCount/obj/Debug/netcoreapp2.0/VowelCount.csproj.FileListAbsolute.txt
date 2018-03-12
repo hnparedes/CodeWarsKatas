@@ -1,0 +1,14 @@
+D:\usr\git\CodeWarsKatas\src\VowelCount\bin\Debug\netcoreapp2.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+D:\usr\git\CodeWarsKatas\src\VowelCount\bin\Debug\netcoreapp2.0\xunit.runner.reporters.netcoreapp10.dll
+D:\usr\git\CodeWarsKatas\src\VowelCount\bin\Debug\netcoreapp2.0\xunit.runner.utility.netcoreapp10.dll
+D:\usr\git\CodeWarsKatas\src\VowelCount\bin\Debug\netcoreapp2.0\VowelCount.deps.json
+D:\usr\git\CodeWarsKatas\src\VowelCount\bin\Debug\netcoreapp2.0\VowelCount.runtimeconfig.json
+D:\usr\git\CodeWarsKatas\src\VowelCount\bin\Debug\netcoreapp2.0\VowelCount.runtimeconfig.dev.json
+D:\usr\git\CodeWarsKatas\src\VowelCount\bin\Debug\netcoreapp2.0\VowelCount.dll
+D:\usr\git\CodeWarsKatas\src\VowelCount\bin\Debug\netcoreapp2.0\VowelCount.pdb
+D:\usr\git\CodeWarsKatas\src\VowelCount\obj\Debug\netcoreapp2.0\VowelCount.csprojResolveAssemblyReference.cache
+D:\usr\git\CodeWarsKatas\src\VowelCount\obj\Debug\netcoreapp2.0\VowelCount.csproj.CoreCompileInputs.cache
+D:\usr\git\CodeWarsKatas\src\VowelCount\obj\Debug\netcoreapp2.0\VowelCount.AssemblyInfoInputs.cache
+D:\usr\git\CodeWarsKatas\src\VowelCount\obj\Debug\netcoreapp2.0\VowelCount.AssemblyInfo.cs
+D:\usr\git\CodeWarsKatas\src\VowelCount\obj\Debug\netcoreapp2.0\VowelCount.dll
+D:\usr\git\CodeWarsKatas\src\VowelCount\obj\Debug\netcoreapp2.0\VowelCount.pdb
